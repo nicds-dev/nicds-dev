@@ -5,11 +5,9 @@
 <h3 align="center">🇨🇴 Colombian Software Developer.</h3><br>
 <div align="center">
   
-  🌱 I’m currently learning **TypeScript**
   
   👨‍💻 All of my projects are available at my [Portfolio](https://nicds.vercel.app/)
-  
-  ⚡ I like movies, manga, anime and comics
+
   
 </div>
 <br/>
